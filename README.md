@@ -1,4 +1,4 @@
-## Welcome!
+## Welcome:tada:
 
 This repository contains a basic NodeJS server useful for demonstration purposes.
 The served webpage will  connect to GitHub's [Octocat API endpoint](https://api.github.com/octocat) and return the Zen quote of the day.
